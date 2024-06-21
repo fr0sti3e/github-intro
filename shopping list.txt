@@ -6,3 +6,5 @@ Bananas
 cherries
 Carrots
 Cereal
+Cucumber
+Eggplants
